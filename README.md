@@ -1,5 +1,5 @@
 
-<img align="middle" alt="Coding" width="1000" src="https://www.joberty.com/blog/content/images/2023/09/software-engineer.png">
+<img align="middle" alt="Coding" width="1000" height ="400" src="https://www.joberty.com/blog/content/images/2023/09/software-engineer.png">
 <h1 align="center">Hi 👋, I'm Keshan Silva</h1>
 <h3 align="center">I am passionate about using technology to solve complex problems and make a positive impact on the world. Currently, I am studying Software Engineering at IJSE-Institute of Software Engineering. As a creative problem solver and team player, I am committed to delivering high-quality work and exceeding expectations. I am eager to connect with other technology professionals and explore new opportunities for growth and development. Let's connect!</h3>
 
