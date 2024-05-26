@@ -1,5 +1,5 @@
 
-<img align="middle" alt="Coding" width="1000" src="https://miro.medium.com/v2/resize:fit:679/1*uzVtquVT0jGfbNAf7Qc1UQ.gif">
+<img align="middle" alt="Coding" width="1000" src="https://www.joberty.com/blog/content/images/2023/09/software-engineer.png">
 <h1 align="center">Hi 👋, I'm Keshan Silva</h1>
 <h3 align="center">I am passionate about using technology to solve complex problems and make a positive impact on the world. Currently, I am studying Software Engineering at IJSE-Institute of Software Engineering. As a creative problem solver and team player, I am committed to delivering high-quality work and exceeding expectations. I am eager to connect with other technology professionals and explore new opportunities for growth and development. Let's connect!</h3>
 
@@ -11,9 +11,7 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=keshan200" alt="keshan200" /></a>
 </p>
 
-<p align="left">
-  <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="Twitter" /></a>
-</p>
+
 
 - 🌱 I’m currently learning **JavaFX, C**
 - 📫 How to reach me **sachinthakeshan175@gmail.com**
