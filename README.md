@@ -3,13 +3,11 @@
 <h1 align="center">Hi 👋, I'm Keshan Silva</h1>
 <h3 align="center">I am passionate about using technology to solve complex problems and make a positive impact on the world. Currently, I am studying Software Engineering at IJSE-Institute of Software Engineering. As a creative problem solver and team player, I am committed to delivering high-quality work and exceeding expectations. I am eager to connect with other technology professionals and explore new opportunities for growth and development. Let's connect!</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=keshan200&label=Profile%20views&color=0e75b6&style=flat" alt="keshan200" />
-</p>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=keshan200" alt="keshan200" /></a>
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=keshan200&label=Profile%20views&color=0e75b6&style=flat)
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=keshan200&margin-w=15&margin-h=15&column=7&no-bg=true&no-frame=true&theme=onedark)
+
 
 
 
