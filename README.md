@@ -13,7 +13,7 @@
 
 
 
-- 🌱 I’m currently learning **JavaFX, C**
+- 🌱 I’m currently learning **Html,Css,AI/ML Development**
 - 📫 How to reach me **sachinthakeshan175@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
