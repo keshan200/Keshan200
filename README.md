@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Keshan+Silva;Software+Engineering+Student;Creative+Problem+Solver;Tech+Enthusiast;Building+Tomorrow's+Solutions" alt="Typing SVG" />
 </div>
 
-<img src="https://camo.githubusercontent.com/60118c6ff524984563af07ee397adb9db65ca7c13beb663b0fa92efcf12289dd/68747470733a2f2f727579612e73747564696f2f6173736574732f696d616765732f6465762e77656270" alt="Header Animation" width="100%" />
+
 
 ---
 
