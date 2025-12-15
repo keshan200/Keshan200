@@ -1,4 +1,4 @@
-# 👋 Welcome to My Digital Universe
+<!--# 👋 Welcome to My Digital Universe
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Keshan+Silva;Software+Engineering+Student;Creative+Problem+Solver;Tech+Enthusiast;Building+Tomorrow's+Solutions" alt="Typing SVG" />
@@ -179,4 +179,203 @@ const keshan = {
   ### ⭐ *"Code is like humor. When you have to explain it, it's bad."* - Cory House
   
   **Thank you for visiting my profile! Let's build something amazing together! 🚀**
+</div>-->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B+I'm+Keshan+Silva;Trainee+Software+Engineer+%F0%9F%9A%80;B.Sc+(Hons)+CS+Undergraduate+%F0%9F%8E%93;Full+Stack+Developer+%F0%9F%92%BB;AI%2FML+Enthusiast+%F0%9F%A4%96" alt="Typing SVG" />
+</h1>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=keshan200&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/keshan200?label=Followers&style=social" alt="followers" />
+  <img src="https://img.shields.io/github/stars/keshan200?label=Stars&style=social" alt="stars" />
+</p>
+
+<p align="center">
+  <em>💼 Trainee Software Engineer | 🎓 B.Sc (Hons) Computer Science Undergraduate @ IJSE</em><br>
+  <em>🌍 Based in Sri Lanka | 💡 Passionate about creating innovative solutions that make an impact</em>
+</p>
+
+<br>
+
+## 🚀 About Me
+
+```typescript
+class Developer {
+    name: string = "Keshan Silva";
+    role: string = "Trainee Software Engineer";
+    education: string = "B.Sc (Hons) Computer Science @ IJSE";
+    location: string = "Negombo, Sri Lanka 🇱🇰";
+    
+    skills: string[] = [
+        "Full Stack Development",
+        "AI/ML Engineering", 
+        "Problem Solving",
+        "System Design"
+    ];
+    
+    currentlyWorking: string = "Building AI-powered web applications";
+    currentlyLearning: string[] = ["Advanced React Patterns", "Deep Learning", "Microservices"];
+    
+    openTo: string[] = [
+        "Internship Opportunities",
+        "Collaborative Projects",
+        "Open Source Contributions",
+        "Tech Discussions"
+    ];
+    
+    contact(): void {
+        console.log("📧 Email: sachinthakeshan175@gmail.com");
+    }
+}
+```
+
+<br>
+
+## 💼 Tech Stack
+
+<details open>
+<summary><b>🎨 Frontend Development</b></summary>
+<br>
+
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>⚙️ Backend Development</b></summary>
+<br>
+
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🤖 AI/ML & Data Science</b></summary>
+<br>
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🗄️ Database & Tools</b></summary>
+<br>
+
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</details>
+
+<br>
+
+## 📈 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=keshan200&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshan200&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=keshan200&theme=tokyonight&hide_border=true" alt="keshan200" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=keshan200&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
+<br>
+
+## 🎯 Current Goals
+
+```python
+goals_2024 = {
+    "learning": [
+        "Advanced React & Next.js",
+        "Machine Learning & Deep Learning",
+        "Cloud Computing (AWS/Azure)",
+        "System Design & Architecture"
+    ],
+    "projects": [
+        "10+ Full Stack Applications",
+        "5+ AI/ML Projects",
+        "Contribute to Open Source"
+    ],
+    "career": [
+        "Secure Software Engineering Internship",
+        "Build Strong Portfolio",
+        "Expand Professional Network"
+    ],
+    "personal": [
+        "Write Technical Blog Posts",
+        "Mentor Junior Developers",
+        "Stay Consistent with Coding"
+    ]
+}
+```
+
+<br>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=keshan200&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" />
+</p>
+
+<br>
+
+## 💡 Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+<br>
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/keshan-silva">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:sachinthakeshan175@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/keshan200">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<br>
+
+<div align="center">
+  
+### 💭 "Code is like humor. When you have to explain it, it's bad." – Cory House
+
+### ⭐️ From [keshan200](https://github.com/keshan200) | Feel free to star my repos if you find them useful! 
+
 </div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
