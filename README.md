@@ -181,7 +181,7 @@ const keshan = {
   **Thank you for visiting my profile! Let's build something amazing together! 🚀**
 </div>-->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B+I'm+Keshan+Silva;Trainee+Software+Engineer+%F0%9F%9A%80;B.Sc+(Hons)+CS+Undergraduate+%F0%9F%8E%93;Full+Stack+Developer+%F0%9F%92%BB;AI%2FML+Enthusiast+%F0%9F%A4%96" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B+I'm+Keshan+Silva;Trainee+AI+Engineer+%F0%9F%9A%80;Trainee+Software+Engineer+%F0%9F%9A%80;B.Sc+(Hons)+CS+Undergraduate+%F0%9F%8E%93;Full+Stack+Development+%F0%9F%92%BB;AI%2FML+Enthusiast+%F0%9F%A4%96" alt="Typing SVG" />
 </h1>
 
 <p align="center">
