@@ -191,7 +191,7 @@ const keshan = {
 </p>
 
 <p align="center">
-  <em>💼 Trainee Software Engineer | 🎓 B.Sc (Hons) Computer Science Undergraduate @ IJSE</em><br>
+  <em>💼 Trainee AI Engineer | Trainee Software Engineer |🎓B.Sc (Hons) Computer Science Undergraduate @ IJSE</em><br>
   <em>🌍 Based in Sri Lanka | 💡 Passionate about creating innovative solutions that make an impact</em>
 </p>
 
